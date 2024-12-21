@@ -152,7 +152,7 @@
         </section>
         <section id="contato">
             <h2>Fale Conosco</h2>
-            <p>Email: <a href="mailto:contato@ipm4024.com">contato@ipm4024.com</a></p>
+            <p>Email: <a href="edsonart961@gmail.com">contato@ipm4024.com</a></p>
             <p>Telefone: (11) 1234-5678</p>
         </section>
         <section id="galeria">
